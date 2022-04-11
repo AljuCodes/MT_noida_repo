@@ -1,6 +1,6 @@
 # json_listing_noida
 
-A new Flutter project.
+A new Flutter project for listing data from the json to listview and gridview and switch between a button 
 
 ## Getting Started
 
